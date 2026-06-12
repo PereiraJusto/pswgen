@@ -2,7 +2,7 @@
 
 Um gerador de senhas moderno, seguro e altamente personalizável, desenvolvido com tecnologias web puras. Este projeto prioriza a segurança do usuário através da geração de entropia localmente no navegador, sem a necessidade de processamento em servidor ou armazenamento de dados sensíveis.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - **Personalização Total**: Escolha o comprimento da senha (até 128 caracteres).
 - **Controle de Caracteres**: Inclua ou exclua letras maiúsculas, minúsculas, números e símbolos.
@@ -11,13 +11,13 @@ Um gerador de senhas moderno, seguro e altamente personalizável, desenvolvido c
 - **Interface Premium**: Design moderno com suporte a temas e micro-animações.
 - **Copiar com um Clique**: Facilidade para copiar a senha gerada para a área de transferência.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5**: Estrutura semântica.
 - **CSS3**: Estilização moderna com variáveis e design responsivo.
 - **JavaScript (ES6+)**: Lógica de geração e interatividade, sem dependências externas.
 
-## 📦 Instalação e Execução
+## Instalação e Execução
 
 Como este é um projeto puramente frontend, não é necessário instalar dependências.
 
@@ -36,7 +36,7 @@ Alternativamente, você pode usar um servidor local simples:
 npx serve frontend
 ```
 
-## 🧪 Testes
+## Testes
 
 O projeto passou por uma bateria de testes rigorosos, incluindo:
 - Validação de lógica de geração de senhas.
@@ -46,7 +46,7 @@ O projeto passou por uma bateria de testes rigorosos, incluindo:
 
 Os relatórios detalhados podem ser encontrados em `documentation/testing/`.
 
-## 🌐 Deploy
+## Deploy
 
 O projeto está pronto para ser hospedado em qualquer serviço de hospedagem estática, como:
 - GitHub Pages
@@ -55,7 +55,7 @@ O projeto está pronto para ser hospedado em qualquer serviço de hospedagem est
 
 Basta apontar o serviço para a raiz do diretório `frontend/`.
 
-## 📄 Licença e Autoria
+## Licença e Autoria
 
 Este projeto foi desenvolvido por **Rafael** como parte do ecossistema Software Factory.
 
